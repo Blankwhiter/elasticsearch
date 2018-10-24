@@ -1,0 +1,4 @@
+spring:
+  elasticsearch:
+    jest:
+      uris: http://192.168.9.219:9204
